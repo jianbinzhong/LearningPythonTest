@@ -7,6 +7,3 @@ def power(x,n):
         s=s*x
         n = n-1
     return s
-xx=int(raw_input("please input x:\n"))
-nn=int(raw_input("please input n:\n"))
-#print power(xx,nn)
